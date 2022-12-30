@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^12.0.2",
+    "cypress-keycloak": "^2.0.0"
+  },
+  "peerDependencies": {
+    "cypress": "^6.5.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0"
+  },
+  "dependencies": {
+    "cypress-keycloak-commands": "^1.2.0"
+  }
+}
