@@ -14,7 +14,6 @@ describe ("BNPwebSite", () => {
         cy.get('#recherche-site > .join-input3 > .form-control').click()
         cy.get('#recherche-site > .join-input3 > .form-control').type('commande livret A')
         cy.get('#recherche-site > .join-unit > .form-control').click()
-        cy.scrollTo('Divers')
 
     })
 
